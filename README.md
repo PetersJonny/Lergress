@@ -1,4 +1,4 @@
-# lergress
+# Lergress
 
 ## 🎯 Objective
 
