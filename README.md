@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-This repository documents my learning journey through the **Alura Java Back-End Developer track**. The goal is to apply and document the knowledge acquired from each course, building a solid portfolio of skills in Java development.
+This repository documents my learning journey through the **Alura Java Back-End Developer track**. The goal is to apply and document the knowledge acquired from each course.
 
 ## 🛠️ Skills & Concepts to be Acquired
 
