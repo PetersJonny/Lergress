@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Your password, email and full name are kept private for security reasons and cannot be changed, this is your username: " + user.username + ", your full name: " + user.getFullName() + ", email: " + user.getEmail() + " and your password: " + user.getPassword());
 
         while (!choice.equals("yes") && !choice.equals("no")) {
-            System.out.println("Do you want to change your username?");
+            System.out.println("Do you want to change your username? yes/no");
             choice = scanner.nextLine();
 
             if (choice.equals("yes")) {
